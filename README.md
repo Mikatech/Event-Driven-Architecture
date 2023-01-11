@@ -4,6 +4,7 @@ The goal of this project is to learn the best practices w/ Event Sourcing &amp; 
 # Resources :books:
 
 - [Event Sourcing By Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [Building Scalable App. with ES & CQRS by Okonkwo Vincent Ikem](https://andela.com/insights/building-scalable-applications-using-event-sourcing-and-cqrs/)
 
 # Architecture :gear:
 
